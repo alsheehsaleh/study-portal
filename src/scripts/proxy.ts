@@ -141,4 +141,4 @@ const proxy = {
     scramjet,
 };
 
-export default proxy;
+export default proxy
