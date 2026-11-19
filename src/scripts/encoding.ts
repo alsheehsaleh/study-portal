@@ -84,4 +84,4 @@ const dummyProxy = {
     getProxyEngine,
 };
 
-export default dummyProxy;
+export default dummyProxy
